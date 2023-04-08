@@ -1,0 +1,281 @@
+.mediaViewInfo {
+	--web-view-name: 웹 1920 – 3;
+	--web-view-id: n_1920__3;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: n_1920__3;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#n_1920__3 {
+	position: absolute;
+	width: 1920px;
+	height: 2300px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: 웹 1920 – 3;
+	--web-view-id: n_1920__3;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#n_9446_Converted {
+	filter: drop-shadow(0px 3px 6px rgba(255, 255, 255, 0.161)) blur(1px);
+	position: absolute;
+	width: 1920px;
+	height: 1182px;
+	left: 0px;
+	top: -72px;
+	overflow: visible;
+}
+#Enp_Visuals {
+	left: 171px;
+	top: 22px;
+	position: absolute;
+	overflow: visible;
+	width: 253px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: __1920___1.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(34,34,34,1);
+}
+#Home {
+	left: 1247px;
+	top: 33px;
+	position: absolute;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: __1920___1.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Archivo;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Portfolio {
+	left: 1524px;
+	top: 33px;
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: __1920___4.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Archivo;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Contact {
+	left: 1670px;
+	top: 33px;
+	position: absolute;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: __1920___5.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Archivo;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#About_me {
+	left: 1365px;
+	top: 33px;
+	position: absolute;
+	overflow: visible;
+	width: 110px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Archivo;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Hi_Im_ENP {
+	left: 613px;
+	top: 457px;
+	position: absolute;
+	overflow: visible;
+	width: 696px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Cerebri Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 123px;
+	color: rgba(31,54,69,1);
+}
+#I_do_things_like_this {
+	left: 815px;
+	top: 592px;
+	position: absolute;
+	overflow: visible;
+	width: 266px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Cerebri Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(31,54,69,1);
+}
+#V {
+	left: 1091px;
+	top: 598px;
+	position: absolute;
+	overflow: visible;
+	width: 16px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Cerebri Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#First_My_name_is_Enp__MINJUN_K {
+	left: 217px;
+	top: 1139px;
+	position: absolute;
+	overflow: visible;
+	width: 1487px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Cerebri Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(31,54,69,1);
+}
+#Software_Proficiency {
+	left: 804px;
+	top: 1573px;
+	position: absolute;
+	overflow: visible;
+	width: 313px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Cerebri Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(31,54,69,1);
+}
+#Adobe_After_Effects_Adobe_Prem {
+	left: 819px;
+	top: 1633px;
+	position: absolute;
+	overflow: visible;
+	width: 283px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Cerebri Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(31,54,69,1);
+}
+#Enp_Visuals_ {
+	left: 850px;
+	top: 2199px;
+	position: absolute;
+	overflow: visible;
+	width: 222px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(34,34,34,1);
+}
+#behance-2161 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	left: 877px;
+	top: 2089px;
+	overflow: visible;
+}
+#n_7390 {
+	position: absolute;
+	width: 72px;
+	height: 72px;
+	left: 972px;
+	top: 2088px;
+	overflow: visible;
+}
+#n_1 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_1 {
+	overflow: visible;
+	position: absolute;
+	width: 46px;
+	height: 4px;
+	left: 937px;
+	top: 1544px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_2 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_2 {
+	overflow: visible;
+	position: absolute;
+	width: 46px;
+	height: 4px;
+	left: 937px;
+	top: 1110px;
+	transform: matrix(1,0,0,1,0,0);
+}
